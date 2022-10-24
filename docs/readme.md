@@ -11,6 +11,6 @@
 
 ### [GitHub Flavored Markdown Spec](https://github.github.com/gfm/ "GitHub Flavored Markdown Spec")
 
-[![](/assets/images/tororo.png)](https://kyomimi.github.io/)
+<!-- [![](/assets/images/tororo.png)](https://kyomimi.github.io/) -->
 
 <img src="/assets/images/tororo.png" width="200">
