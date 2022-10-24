@@ -1,3 +1,7 @@
+
+.blob-code, .blob-code-inner {
+     font-family: "Meiryo",Hasklig,"Hasklig Light",SourceCodePro,"Source Code Pro",SourceHanCodeJP,"Source Han Code JP,TakaoGothic";
+}
 # kyomimi.github.io
 
 ## 
